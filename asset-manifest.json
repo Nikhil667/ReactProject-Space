@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.483c2b2d.css",
+    "main.js": "/static/js/main.2ff7f796.js",
+    "static/js/787.6f638395.chunk.js": "/static/js/787.6f638395.chunk.js",
+    "static/media/moonDesktop.svg": "/static/media/moonDesktop.5a99e55e7a708dac015cfc585abf88e9.svg",
+    "static/media/moon.svg": "/static/media/moon.528836f23aade57a8bbbb24faeefa9be.svg",
+    "static/media/b.svg": "/static/media/b.b99228e3c7afb56c141f.svg",
+    "static/media/logo.svg": "/static/media/logo.72ae4d5e6cad8baa550e0ef803cdcf13.svg",
+    "static/media/menu.svg": "/static/media/menu.6499aa66f6a500c24c7059fdd90f2c13.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.78de05039efdf0b7abfde379a601566a.svg",
+    "main.483c2b2d.css.map": "/static/css/main.483c2b2d.css.map",
+    "main.2ff7f796.js.map": "/static/js/main.2ff7f796.js.map",
+    "787.6f638395.chunk.js.map": "/static/js/787.6f638395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483c2b2d.css",
+    "static/js/main.2ff7f796.js"
+  ]
+}
